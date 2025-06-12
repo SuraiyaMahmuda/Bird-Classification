@@ -42,8 +42,19 @@
 
 ## 📊 Snapshots
 
-![P](m1.png)
+![P](ml1.png)
 
+![P](ml2.png)
+
+![P](ml3.png)
+
+![P](ml4.png)
+
+![P](ml5.png)
+
+![P](ml6.png)
+
+---
 
 ## 📊 Results
 
