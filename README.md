@@ -12,7 +12,7 @@
 - **Training & evaluation**: Train models with loss/accuracy metrics, visualize training curves.
 - **Inference script**: Upload an image to predict bird species.
 - **Extensible**: Easily swap architectures or dataset.
-- 
+
 ---
 
 ## 🧰 Tools & Frameworks
@@ -28,7 +28,7 @@
   - PIL (Pillow)
 - **Jupyter Notebooks** for EDA and experimentation
 - **Google Colab** / local training support
-- 
+
 ---
 
 ## 🛠️ Installation
@@ -38,6 +38,7 @@
    git clone https://github.com/SuraiyaMahmuda/Bird-Classification.git
    cd Bird-Classification
 
+---
 
 ## 📊 Results
 
