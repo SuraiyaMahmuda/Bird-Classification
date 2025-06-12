@@ -28,8 +28,6 @@
 - **Google Colab** / local training support
 ---
 
-## 📂 Project Structure
-
 ## 🛠️ Installation
 
 1. Clone the repository:
