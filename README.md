@@ -1,5 +1,6 @@
 # 🐦 Bird Classification
 
+
 **Bird Classification** is a deep learning-based image classification project that identifies bird species from photographs. The model leverages powerful transfer learning techniques and a PyTorch backend to achieve high classification accuracy on a curated bird dataset.
 ---
 
