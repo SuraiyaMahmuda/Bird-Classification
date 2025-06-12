@@ -2,6 +2,7 @@
 
 
 **Bird Classification** is a deep learning-based image classification project that identifies bird species from photographs. The model leverages powerful transfer learning techniques and a PyTorch backend to achieve high classification accuracy on a curated bird dataset.
+
 ---
 
 ## 🚀 Features
@@ -11,6 +12,7 @@
 - **Training & evaluation**: Train models with loss/accuracy metrics, visualize training curves.
 - **Inference script**: Upload an image to predict bird species.
 - **Extensible**: Easily swap architectures or dataset.
+- 
 ---
 
 ## 🧰 Tools & Frameworks
@@ -26,6 +28,7 @@
   - PIL (Pillow)
 - **Jupyter Notebooks** for EDA and experimentation
 - **Google Colab** / local training support
+- 
 ---
 
 ## 🛠️ Installation
