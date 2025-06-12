@@ -16,20 +16,9 @@
 
 ## 📂 Project Structure
 
-Bird-Classification/
-├── data/ # Raw and processed images
-│ ├── train/
-│ ├── val/
-│ └── test/
-├── notebooks/ # Jupyter notebooks for EDA & experiments
-├── src/ # Source code
-│ ├── init.py
-│ ├── data.py # Dataset & DataLoader utilities
-│ ├── model.py # Model architectures & wrappers
-│ ├── train.py # Training loop with validation logging
-│ ├── evaluate.py # Model evaluation and metrics
-│ └── infer.py # Single-image inference
-├── checkpoints/ # Saved model weights
-├── scripts/ # Utility scripts (download, preprocess, etc.)
-├── requirements.txt # Python dependencies
-└── README.md # This documentation
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SuraiyaMahmuda/Bird-Classification.git
+   cd Bird-Classification
