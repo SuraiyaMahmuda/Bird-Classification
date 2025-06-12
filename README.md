@@ -22,3 +22,23 @@
    ```bash
    git clone https://github.com/SuraiyaMahmuda/Bird-Classification.git
    cd Bird-Classification
+
+
+## 📊 Results
+
+| Metric | Score | 
+|--------------|------|
+| Accuracy | 92.3% | 
+| Precision | 91.5% | 
+| Recall | 90.8% | 
+| F1-score | 91.1% | 
+
+
+
+
+
+
+
+
+
+
