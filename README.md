@@ -25,7 +25,6 @@
   - PIL (Pillow)
 - **Jupyter Notebooks** for EDA and experimentation
 - **Google Colab** / local training support
-
 ---
 
 ## 📂 Project Structure
@@ -40,19 +39,10 @@
 
 ## 📊 Results
 
-| Metric | Score | 
-|--------------|------|
-| Accuracy | 92.3% | 
-| Precision | 91.5% | 
-| Recall | 90.8% | 
-| F1-score | 91.1% | 
-
-
-
-
-
-
-
-
-
+|     🧪 Evaluation Metric      |       🔢 Score (%)        |
+|------------------------------|---------------------------|
+| Accuracy                     | 92.3%                     |
+| Precision                    | 91.5%                     |
+| Recall                       | 90.8%                     |
+| F1-score                     | 91.1%                     |
 
